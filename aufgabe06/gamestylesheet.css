@@ -1,0 +1,175 @@
+QLabel#highscore_item{
+    color: white;
+    font-size: 40px;
+    font-family: "Verdana", sans-serif;
+    padding: 10px;
+}
+QMenu:item:selected{
+    background-color: darkgray;
+}
+QMenuBar:item:selected{
+     background-color: darkgray;
+}
+
+QLabel#gameovertitle{
+    color: darkgreen;
+    font-size: 100px;
+    font-family: "Verdana", sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+QLabel#vs{
+    color: red;
+    font-size: 60px;
+    font-family: "Verdana", sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+QLabel#score{
+    color: white;
+    font-size: 60px;
+    font-family: "Verdana", sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+QLabel#secondPlayer{
+    color: darkseagreen;
+    font-size: 80px;
+    font-family: "Verdana", sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+QLabel#highscore{
+    color: yellowgreen;
+    font-size: 40px;
+    font-family: "Verdana", sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+
+QWidget:QLabel #title {
+    color: darkgreen;
+    font-size: 100px;
+    font-family: "Verdana", sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+QLabel#rematch{
+    color: darkgreen;
+    font-size: 50px;
+    font-family: "Verdana", sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
+QLabel #player_live {
+    color: white;
+    font-size: 30px;
+    font-family: 'Verdana', sans-serif;
+    padding: 10px;
+    border: 5px solid olive;
+    border-radius: 20px;
+    text-align: center;
+}
+
+QLabel #player_name_score {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    font-family: 'Verdana', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid darkgreen;
+    border-radius: 20px;
+}
+
+QLabel #stopwatch{
+    color: white;
+    font-size: 20px;
+    font-family: 'Verdana', sans-serif;
+    padding: 10px;
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+}
+
+QLabel{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    font-family: "Verdana", sans-serif;
+}
+
+QPushButton#back{
+    color: white;
+    font-size: 20px;
+    font-family: 'Verdana', sans-serif;
+    padding: 10px;
+    border: 5px solid yellowgreen;
+    border-radius: 20px;
+    background-color: black;
+}
+
+QPushButton#back:hover:pressed{
+    color: white;
+    font-size: 20px;
+    font-family: 'Verdana', sans-serif;
+    padding: 10px;
+    border: 5px solid red;
+    border-radius: 20px;
+    background-color: black
+}
+
+QPushButton#back:hover {
+    color: white;
+    font-size: 20px;
+    font-family: 'Verdana', sans-serif;
+    padding: 10px;
+    border: 5px solid yellowgreen;
+    border-radius: 20px;
+    background-color: darkgrey;
+}
+
+QPushButton{
+    color: white;
+    font-size: 20px;
+    font-family: 'Verdana', sans-serif;
+    padding: 10px;
+    border: 5px solid darkgreen;
+    border-radius: 20px;
+    background-color: black;
+}
+
+QPushButton:hover:pressed{
+    color: white;
+    font-size: 20px;
+    font-family: 'Verdana', sans-serif;
+    padding: 10px;
+    border: 5px solid red;
+    border-radius: 20px;
+    background-color: black
+}
+
+QPushButton:hover{
+    color: white;
+    font-size: 20px;
+    font-family: 'Verdana', sans-serif;
+    padding: 10px;
+    border: 5px solid darkgreen;
+    border-radius: 20px;
+    background-color: darkgrey;
+}
+
+QLineEdit{
+    color: white;
+    font-size: 20px;
+    font-family:'Verdana', sans-serif;
+    padding: 10px;
+    border: 1px solid darkgreen;
+    border-radius: 5px;
+    background-color: black;
+}
+
+QWidget{
+    background-color: black;
+    color: white;
+}
